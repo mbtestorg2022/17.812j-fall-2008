@@ -21,32 +21,276 @@ Grading
 
 The class grade will be calculated as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem sets | 50% |
-| Two topic reviews | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two topic reviews
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problem sets are mostly taken from [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262661317) Persson, Torsten, and Guido Tabellini. _Political Economics: Explaining Economic Policy_. Cambridge, MA: MIT Press, 2002. ISBN: 9780262661317, with the due dates indicated in the calendar below. The topic reviews consist of the following: selecting three articles on a particular topic in political economy (which could be any non-starred paper in the reading list, or any group of papers outside the reading list), explaining the main contributions of each article, and assessing what is learned about the topic from the articles and what questions remain unresolved. Each review should be no longer than 6 pages.
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | General framework | &nbsp; |
-| 2 | Applications: public goods and size of government | &nbsp; |
-| 3 | Applications: taxation and income redistribution | &nbsp; |
-| 4 | Applications: macroeconomic policy | &nbsp; |
-| 5-7 | Multiparty competition and comparative electoral systems | Problem set 1 due |
-| 8 | Learning by voters | &nbsp; |
-| 9 | Agency models | &nbsp; |
-| 10-11 | Models of political parties | &nbsp; |
-| 12 | Possibility of a point-valued solution | &nbsp; |
-| 13 | Set-valued solution concepts | Problem set 2 due |
-| 14 | Supermajority rules |  {{< br >}}{{< br >}} Problem set 3 due {{< br >}}{{< br >}} First topic review due {{< br >}}{{< br >}}  |
-| 15 | Vote-buying, vote-trading in legislatures | &nbsp; |
-| 16 | Probabilistic voting models | &nbsp; |
-| 17-19 | Interest groups and lobbying | Problem set 4 due |
-| 20 | Bargaining in legislatures | &nbsp; |
-| 21 | Coalitions, policies, and government stability | &nbsp; |
-| 22 | Informational vs. distributive theories of legislature |  {{< br >}}{{< br >}} Problem set 5 due {{< br >}}{{< br >}} Second topic review due {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+General framework
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Applications: public goods and size of government
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Applications: taxation and income redistribution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Applications: macroeconomic policy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-7
+{{< tdclose >}}
+{{< tdopen >}}
+Multiparty competition and comparative electoral systems
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Learning by voters
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Agency models
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-11
+{{< tdclose >}}
+{{< tdopen >}}
+Models of political parties
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Possibility of a point-valued solution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Set-valued solution concepts
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Supermajority rules
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 3 due
+
+First topic review due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Vote-buying, vote-trading in legislatures
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Probabilistic voting models
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17-19
+{{< tdclose >}}
+{{< tdopen >}}
+Interest groups and lobbying
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Bargaining in legislatures
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Coalitions, policies, and government stability
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Informational vs. distributive theories of legislature
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 5 due
+
+Second topic review due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
