@@ -256,7 +256,7 @@ Roemer, John E. "Why the Poor Do Not Expropriate the Rich: An Old Argument in Ne
 
 Snyder, James M., Jr., and Michael M. Ting. "An Informational Rationale for Political Parties." _American Journal of Political Science_ 46 (2002): 90-110.
 
-Bernhardt, Dan, Larissa Campuzano, and Francesco Squintani. "On the Benefits of Party Competition." ELSE Working Paper No. 122. ESRC Centre for Economic Learning and Social Evolution, London, UK, June 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://kingcenter.stanford.edu/publications/more-law-more-measuring-legal-reform-peoples-republic-china))
+Bernhardt, Dan, Larissa Campuzano, and Francesco Squintani. "On the Benefits of Party Competition." ELSE Working Paper No. 122. ESRC Centre for Economic Learning and Social Evolution, London, UK, June 2005. ([PDF](https://kingcenter.stanford.edu/publications/more-law-more-measuring-legal-reform-peoples-republic-china))
 
 
 {{< tdclose >}}
@@ -284,7 +284,7 @@ Possibility of a point-valued solution
 
 \*McKelvey, Richard D. "Intransitivities in Multidimensional Voting Models and Some Implications for Agenda Control." _Journal of Economic Theory_ 12 (1976): 472-482.
 
-Patty, John, James M. Snyder, Jr., and Michael M. Ting. 2008. "Two's Company, Three's an Equilibrium: Strategic Voting and Multicandidate Elections." Unpublished paper, July 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF](http://econ-www.mit.edu/files/2983))
+Patty, John, James M. Snyder, Jr., and Michael M. Ting. 2008. "Two's Company, Three's an Equilibrium: Strategic Voting and Multicandidate Elections." Unpublished paper, July 2008. ( [PDF](http://econ-www.mit.edu/files/2983))
 
 
 {{< tdclose >}}
@@ -468,7 +468,7 @@ Lohmann, Suzanne. "Information, Access, and Contributions: A Signaling Model of 
 
 \*Hall, Richard L., and Alan V. Deardorff. "Lobbying as Legislative Subsidy." _American Political Science Review_ 100, no. 1 (2006): 69-84.
 
-Chamon, Marcos, and Ethan Kaplin. "The Iceberg Theory of Campaign Contributions: Political Threats and Interest Group Behavior." Unpublished paper, April 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://econweb.umd.edu/~kaplan/peaeafinal.pdf))
+Chamon, Marcos, and Ethan Kaplin. "The Iceberg Theory of Campaign Contributions: Political Threats and Interest Group Behavior." Unpublished paper, April 2007. ([PDF](http://econweb.umd.edu/~kaplan/peaeafinal.pdf))
 
 
 {{< tdclose >}}
@@ -598,7 +598,7 @@ Representative vs. direct democracy
 {{< tdopen >}}
 
 
-Schultz, Christian. "Information, Polarization and Accountability in Democracy." Unpublished paper, April 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.econ.ku.dk/cschultz/undersider/workpap/inf-pol-and-account.pdf))
+Schultz, Christian. "Information, Polarization and Accountability in Democracy." Unpublished paper, April 2004. ([PDF](http://www.econ.ku.dk/cschultz/undersider/workpap/inf-pol-and-account.pdf))
 
 \*Maskin, Eric, and Jean Tirole. "The Politician and the Judge: Accountability in Government." _American Economic Review_ 94, no. 4 (2004): 1034-1054.
 
